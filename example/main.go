@@ -1,8 +1,3 @@
-# erc20-go
-Golang interacts with erc20
-
-# example
-```
 package main
 
 import (
@@ -42,4 +37,3 @@ func main() {
 	}
 	fmt.Printf("totalSupply: %v\n", totalSupply.String())
 }
-```
